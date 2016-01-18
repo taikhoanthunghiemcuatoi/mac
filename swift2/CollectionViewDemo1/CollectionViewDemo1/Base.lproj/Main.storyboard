@@ -80,6 +80,11 @@
                                 <outlet property="delegate" destination="F5c-Ua-FNN" id="vSL-kY-hl0"/>
                             </connections>
                         </textField>
+                        <barButtonItem key="rightBarButtonItem" systemItem="action" id="LKf-20-9Er">
+                            <connections>
+                                <action selector="share:" destination="F5c-Ua-FNN" id="iNf-bj-YYO"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sxL-n6-de2" userLabel="First Responder" sceneMemberID="firstResponder"/>

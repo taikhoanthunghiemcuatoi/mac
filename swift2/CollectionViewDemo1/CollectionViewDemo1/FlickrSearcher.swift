@@ -10,7 +10,7 @@
 import Foundation
 import UIKit
 
-let apiKey = "9b18b1255294c4fcd50c0d852e57e66d"
+let apiKey = "255702f37957715afc964fc416b9791d"
 
 struct FlickrSearchResults {
     let searchTerm : String
